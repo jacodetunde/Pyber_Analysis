@@ -6,7 +6,7 @@ The purpose of this analysis is the following:
 - Infer from the chart how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 ## Results
 #### Data summary
-
+![pyber_summary_df.png](pyber_summary_df.png)
 The cities were grouped into cities type(Rural, Suburban, and Urban) to get the total number of rides, drivers, and fares in each city type.
 The analysis shows that total rides in Rural, Suburban, and Urban cities are 125, 625, and 1,625 respectively. 
 The total drivers in rural, Suburban, and Urban cities are 537, 8,570, and 59,602 respectively.
