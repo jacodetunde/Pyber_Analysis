@@ -35,4 +35,4 @@ Suburban cities show to be an emerging market for  PyBer. Though the population 
 The lower rides and drivers in rural could be due to lower populations of riders in rural cities. However, the higher average fare per driver can encourage more drivers to use PyBer app but may discourage the riders from using the app. Based on this, PyBer may lower the ride’s fare in Rural cities to encourage more users of the app.
 
 Finally, from the charts total fares are higher in the last week of February and last week of March in all the cities type. This may indicate that there are more rides in those weeks of the month. It may be due to holiday or weather conditions. PyBer should investigate further into the reason for the peak in those weeks.
-In general, the movement pattern of the trend shows a relatively weekly seasonal trend from January to early 2019.
+In general, the movement pattern of the trend shows a relatively weekly seasonal trend from January to early May 2019.
