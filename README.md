@@ -9,7 +9,7 @@ The purpose of this analysis is the following:
 ![pyber_summary_df.png](pyber_summary_df.png)
 The cities were grouped into cities type(Rural, Suburban, and Urban) to get the total number of rides, drivers, and fares in each city type.
 The analysis shows that total rides in Rural, Suburban, and Urban cities are 125, 625, and 1,625 respectively. 
-The total drivers in rural, Suburban, and Urban cities are 537, 8,570, and 59,602 respectively.
+The total drivers in rural, Suburban, and Urban cities are 78, 490, and 2,405 respectively.
 The total fares of rides in Rural is $4,327.93, while Suburban and Urban are $19,356.33 and  $39,854.38 respectively.
 accordingly.
  The average fare by Ride are as follows:
@@ -17,9 +17,9 @@ accordingly.
 - Suburban cities - $30.97 per ride
 - Urban cities - $24.53 per ride
 - The average Fare per driver are as follows:
-- Rural cities - $8.06 per driver
-- Suburban cities – $2.26 per driver
-- Urban cities - $0.67 per driver
+- Rural cities - $55.49 per driver
+- Suburban cities – $39.50 per driver
+- Urban cities - $16.57 per driver
 
 
 #### Chart
