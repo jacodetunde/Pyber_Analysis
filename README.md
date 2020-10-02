@@ -5,7 +5,7 @@ The purpose of this analysis is the following:
 - To use pandas and matplotlib to a multiple-line graph that shows the total weekly fares for each city type.
 - Infer from the chart how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 ## Results
-####Data summary:
+#### Data summary
 The cities were grouped into cities type(Rural, Suburban, and Urban) to get the total number of rides, drivers, and fares in each city type.
 The analysis shows that total rides in Rural, Suburban, and Urban cities are 125, 625, and 1,625 respectively. 
 The total drivers in rural, Suburban, and Urban cities are 537, 8,570, and 59,602 respectively.
@@ -21,7 +21,7 @@ accordingly.
 - Urban cities - $0.67 per driver
 
 
-####Chart
+#### Chart
 The data were grouped by city type and date to observe the trend of the total fare in each city type between January 2019 and April 2019.
 The chart shows that the results show that, Urban cities had the highest total fares, followed by Suburban and Rural.
 The last week of February was the peak of total fare in suburban cities. While Rural cities have the highest total fare in the first week of April. The last week of February and the second week of March is the second week of March shows to be the highest points of total fares in Urban cities.
